@@ -1,1 +1,1 @@
-# ecs-dashboard
+# ecs-dashboards
