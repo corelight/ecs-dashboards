@@ -1,2 +1,2 @@
 # ecs-dashboards
-The ECS Dashboard has been tested to work in Elastic 7.12 and above. To install goto saved objects and load the njson file by default it for default space and index of ecs-corelight*, if you index is different you will need to update thaat. 
+Note that these dashboards have been deprecated. The latest Corelight Elastic dashboard can be installed through the Elastic integration for Corelight. 
